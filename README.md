@@ -1,6 +1,4 @@
-
-<img width=100% bottom=50px src="https://github.com/DevSharkMT/DevSharkMT/assets/155767351/149e060e-d639-4701-95af-7f71399a39ec"/>
-
+<img width=100% bottom=50px src="https://github.com/user-attachments/assets/a387c1f7-5322-4a18-be22-1aa3b2cc1a01"/>
 <br>
 <br>
 
