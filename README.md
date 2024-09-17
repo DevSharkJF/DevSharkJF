@@ -34,13 +34,13 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=1&color=1D23F7&repeat=false&random=false&width=500&lines=ESTUDANDO" alt="Typing SVG" /></a>
 
-![Python-3776AB_style=for-the-badge logo=python logoColor=white](https://github.com/user-attachments/assets/f1fa43a5-61b6-4cdd-b99f-469361fa7a54)
-![JavaScript-F7DF1E_style=for-the-badge logo=javascript logoColor=black](https://github.com/user-attachments/assets/920c5451-39b6-4611-adac-ef9d76ce1d7e)
-![HTML5-E34F26_style=for-the-badge logo=html5 logoColor=white](https://github.com/user-attachments/assets/11433840-29f4-4f51-9d52-3a54ce511d71)
-![CSS3-1572B6_style=for-the-badge logo=css3 logoColor=white](https://github.com/user-attachments/assets/f34f42c3-2db0-4d44-b904-35a0abb1e458)
-![PHP-777BB4_style=for-the-badge logo=php logoColor=white](https://github.com/user-attachments/assets/b572a73c-3c26-408c-abde-61672cd7ebe7)
-![MySQL-005C84_style=for-the-badge logo=mysql logoColor=white](https://github.com/user-attachments/assets/be534e33-2ebf-4fc4-9515-ba2c3efbaede)
-
+   ![Python-3776AB_style=for-the-badge logo=python logoColor=white](https://github.com/user-attachments/assets/8d2dd7dc-302a-4e6c-aa67-94a3d5d99205)
+   ![PHP-777BB4_style=for-the-badge logo=php logoColor=white](https://github.com/user-attachments/assets/84b37fa0-375a-4cc3-a131-35b5fb86d1e0)
+   ![MySQL-005C84_style=for-the-badge logo=mysql logoColor=white](https://github.com/user-attachments/assets/8dfc1295-eea2-403a-94e8-33fd904d2a13)
+   ![Javascript-323330_style=for-the-badge logo=javascript logoColor=F7DF1E](https://github.com/user-attachments/assets/00937c1f-8e75-4223-805f-6d33fe7bed12)
+   ![HTML5-E34F26_style=for-the-badge logo=html5 logoColor=white](https://github.com/user-attachments/assets/df4f8663-6212-4c85-9eb4-222c7213f4d9)
+   ![CSS3-1572B6_style=for-the-badge logo=css3 logoColor=white](https://github.com/user-attachments/assets/1cb984aa-5ee4-4639-b38f-3ab9c3a7bbbe) 
+   ![Bootstrap-563D7C_style=for-the-badge logo=bootstrap logoColor=white](https://github.com/user-attachments/assets/ae63530c-c84d-4dbe-9f9c-430140db89d2)
 ---
 
 <br>
