@@ -32,7 +32,7 @@
 
 ---
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=1&color=1D23F7&repeat=false&random=false&width=500&lines=ESTUDANDO" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=1&color=1D23F7&repeat=false&random=false&width=500&lines=Estudando" alt="Typing SVG" /></a>
 
    ![Python-3776AB_style=for-the-badge logo=python logoColor=white](https://github.com/user-attachments/assets/8d2dd7dc-302a-4e6c-aa67-94a3d5d99205)
    ![PHP-777BB4_style=for-the-badge logo=php logoColor=white](https://github.com/user-attachments/assets/84b37fa0-375a-4cc3-a131-35b5fb86d1e0)
@@ -46,7 +46,7 @@
 <br>
 <br>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=1&color=1D23F7&repeat=false&random=false&width=500&lines=REDES+SOCIAIS" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=1&color=1D23F7&repeat=false&random=false&width=500&lines=Redes+Sociais" alt="Typing SVG" /></a>
  
   [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/the_receputi)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-receputi-06b88a2a9/)
