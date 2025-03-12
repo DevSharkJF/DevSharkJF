@@ -2,11 +2,16 @@
 <br>
 <br>
 
+<div align="right">
+ <img height="150" src="https://64.media.tumblr.com/f8b5fba97ddb66be9e5514fb03ebf3d9/5237f7a3ef223812-4a/s500x750/3ac21b87a185d6d53fd1dba210781281fa9a24ab.gif"  />
+ <img height="150" src="https://pa1.aminoapps.com/6592/7d6c4ce2ccc12226c29548ab0e6e76579f0d6786_hq.gif"  />
+</div>
+
 <div align="center">
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=100&size=25&pause=1000&color=1C1AF7&random=false&width=435&height=60&lines=Ol%C3%A1%2C+meu+nome+%C3%A9+Gustavo+Receputi" alt="Typing SVG" /></a>
 </div>
 
-<br>
+
 
 <div align="center">
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=%20DevSharkJF&theme=github-dark-blue" alt="GitHub Streak" /></a> <br>
@@ -51,7 +56,7 @@
   [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/the_receputi)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-receputi-06b88a2a9/)
   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cmp.1a.receputi27dev@gmail.com)
-  
+
 <div align="center">
  <img src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FDevSharkJF&s=35&c=0515f0&bg=00000000&no=10&ff=digii&tb=Visitas+no+Perfil%3A+&ta=" alt="visits">
 </div>
