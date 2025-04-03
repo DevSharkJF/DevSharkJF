@@ -11,28 +11,29 @@
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=100&size=25&pause=1000&color=1C1AF7&random=false&width=435&height=60&lines=Ol%C3%A1%2C+meu+nome+%C3%A9+Gustavo+Receputi" alt="Typing SVG" /></a>
 </div>
 
-
-
 <div align="center">
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=%20DevSharkJF&theme=github-dark-blue" alt="GitHub Streak" /></a> <br>
    <img height="150em" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=DevSharkJF&show_icons=true&theme=radical&layout=compact" />
    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=DevSharkJF&show_icons=true&theme=radical" />
+   
+   ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DevSharkJF&theme=react)
 </div>
 
 <br>
 <br>
+
+
 
 ---
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=1&color=1D23F7&repeat=false&random=false&width=500&lines=Gr%C3%A1fico+de+Contribui%C3%A7%C3%A3o" alt="Typing SVG" /></a>
 
 <div align="center" >
-  
-  ![Ashutosh's github activity graph](https://ssr-contributions-svg.vercel.app/_/DevSharkJF?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=1&animation_delay=0.05&animation_amplitude=20&animation_frequency=0.5&animation_wave_center=10_0&format=svg&weeks=30&theme=blue)
-  
+ <br>
+ 
+ ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DevSharkJF&theme=discord_old_blurple)
 </div>
 
-<br>
 <br>
 
 ---
