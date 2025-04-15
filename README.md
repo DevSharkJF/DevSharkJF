@@ -40,13 +40,13 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=1&color=1D23F7&repeat=false&random=false&width=500&lines=Estudando" alt="Typing SVG" /></a>
 
-   ![Python-3776AB_style=for-the-badge logo=python logoColor=white](https://github.com/user-attachments/assets/8d2dd7dc-302a-4e6c-aa67-94a3d5d99205)
    ![PHP-777BB4_style=for-the-badge logo=php logoColor=white](https://github.com/user-attachments/assets/84b37fa0-375a-4cc3-a131-35b5fb86d1e0)
    ![MySQL-005C84_style=for-the-badge logo=mysql logoColor=white](https://github.com/user-attachments/assets/8dfc1295-eea2-403a-94e8-33fd904d2a13)
    ![Javascript-323330_style=for-the-badge logo=javascript logoColor=F7DF1E](https://github.com/user-attachments/assets/00937c1f-8e75-4223-805f-6d33fe7bed12)
    ![HTML5-E34F26_style=for-the-badge logo=html5 logoColor=white](https://github.com/user-attachments/assets/df4f8663-6212-4c85-9eb4-222c7213f4d9)
    ![CSS3-1572B6_style=for-the-badge logo=css3 logoColor=white](https://github.com/user-attachments/assets/1cb984aa-5ee4-4639-b38f-3ab9c3a7bbbe) 
    ![Bootstrap-563D7C_style=for-the-badge logo=bootstrap logoColor=white](https://github.com/user-attachments/assets/ae63530c-c84d-4dbe-9f9c-430140db89d2)
+   ![Python-3776AB_style=for-the-badge logo=python logoColor=white](https://github.com/user-attachments/assets/8d2dd7dc-302a-4e6c-aa67-94a3d5d99205)
 ---
 
 <br>
