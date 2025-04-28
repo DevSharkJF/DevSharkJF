@@ -23,7 +23,6 @@
 
 
 ---
-
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=1&color=1D23F7&repeat=false&random=false&width=500&lines=Gr%C3%A1fico+de+Contribui%C3%A7%C3%A3o" alt="Typing SVG" /></a>
 
 <div align="center" >
@@ -35,7 +34,6 @@
 <br>
 
 ---
-
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=1&color=1D23F7&repeat=false&random=false&width=500&lines=Habilidades" alt="Typing SVG" /></a>
 <div align="center">
  
@@ -51,10 +49,6 @@
 </div>
 
 ---
-
-<br>
-<br>
-
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=1&color=1D23F7&repeat=false&random=false&width=500&lines=Redes+Sociais" alt="Typing SVG" /></a>
  
   [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/the_receputi)
