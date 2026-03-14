@@ -3,8 +3,8 @@
 <br>
 
 <div align="right">
- <img height="150" src="https://64.media.tumblr.com/f8b5fba97ddb66be9e5514fb03ebf3d9/5237f7a3ef223812-4a/s500x750/3ac21b87a185d6d53fd1dba210781281fa9a24ab.gif"  />
- <img height="150" src="https://pa1.aminoapps.com/6592/7d6c4ce2ccc12226c29548ab0e6e76579f0d6786_hq.gif"  />
+ <img height="100" src="https://64.media.tumblr.com/f8b5fba97ddb66be9e5514fb03ebf3d9/5237f7a3ef223812-4a/s500x750/3ac21b87a185d6d53fd1dba210781281fa9a24ab.gif"  />
+ <img height="100" src="https://github.com/user-attachments/assets/13e29081-7276-4f66-af3a-030b7c8dc021"  />
 </div>
 
 <div align="center">
@@ -45,7 +45,13 @@
    ![CSS3-1572B6_style=for-the-badge logo=css3 logoColor=white](https://github.com/user-attachments/assets/1cb984aa-5ee4-4639-b38f-3ab9c3a7bbbe) 
    ![Bootstrap-563D7C_style=for-the-badge logo=bootstrap logoColor=white](https://github.com/user-attachments/assets/ae63530c-c84d-4dbe-9f9c-430140db89d2)
    ![Python-3776AB_style=for-the-badge logo=python logoColor=white](https://github.com/user-attachments/assets/8d2dd7dc-302a-4e6c-aa67-94a3d5d99205)
-   ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DevSharkJF&theme=react)
+   <br><br>
+   ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DevSharkJF&theme=react) 
+</div>
+
+<div align="center>
+
+ 
 </div>
 
 ---
@@ -55,6 +61,8 @@
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-receputi-06b88a2a9/)
   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cmp.1a.receputi27dev@gmail.com)
 
-<div align="center">
+Site está pausado
+<!-- <div align="center">
+     Site está pausado
  <img src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FDevSharkJF&s=35&c=0515f0&bg=00000000&no=10&ff=digii&tb=Visitas+no+Perfil%3A+&ta=" alt="visits">
-</div>
+</div> -->
