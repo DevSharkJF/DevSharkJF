@@ -13,8 +13,8 @@
 
 <div align="center">
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=%20DevSharkJF&theme=github-dark-blue" alt="GitHub Streak" /></a> <br>
-   <img height="150em" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=DevSharkJF&show_icons=true&theme=radical&layout=compact" />
-   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=DevSharkJF&show_icons=true&theme=radical" />
+   <!-- <img height="150em" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=DevSharkJF&show_icons=true&theme=radical&layout=compact" />
+   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=DevSharkJF&show_icons=true&theme=radical" /> -->
 </div>
 
 <br>
