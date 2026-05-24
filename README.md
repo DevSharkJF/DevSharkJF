@@ -13,14 +13,10 @@
 
 <div align="center">
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=%20DevSharkJF&theme=github-dark-blue" alt="GitHub Streak" /></a> <br>
-   <!-- <img height="150em" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=DevSharkJF&show_icons=true&theme=radical&layout=compact" />
-   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=DevSharkJF&show_icons=true&theme=radical" /> -->
 </div>
 
 <br>
 <br>
-
-
 
 ---
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=1&color=1D23F7&repeat=false&random=false&width=500&lines=Gr%C3%A1fico+de+Contribui%C3%A7%C3%A3o" alt="Typing SVG" /></a>
@@ -55,7 +51,3 @@
   [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/the_receputi)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-receputi-06b88a2a9/)
   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cmp.1a.receputi27dev@gmail.com)
-<!-- <div align="center">
-     Site está pausado
- <img src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FDevSharkJF&s=35&c=0515f0&bg=00000000&no=10&ff=digii&tb=Visitas+no+Perfil%3A+&ta=" alt="visits">
-</div> -->
