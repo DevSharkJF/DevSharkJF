@@ -14,8 +14,6 @@
 
 👨🏻‍💻 Em 2024 iniciei com serviços freelancer, o que me proporcionou experiência na área de desenvolvimento, pois tinha contato com demanda do cliente, reuniões de alinhamento, prazo de entregas, trabalho em equipe e o código para criar.
 
-🎯Busco oportunidades na área de TI em geral, a fim de melhorar minha experiência profissional tanto na programação como em manutenção de computadores, periféricos e redes
-
 ---
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=25&duration=1&pause=1000&color=1D23F7&background=FFFFFF00&repeat=false&width=435&lines=ESTAT%C3%8DSTICAS)](https://git.io/typing-svg)
@@ -29,7 +27,9 @@
   <div align="center">
 
   ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DevSharkJF&theme=react)
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=DevSharkJF&theme=default)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=DevSharkJF&theme=dark)
+  <img height="160" src="https://github-readme-stats-eight-theta.vercel.app/api?username=DevSharkJF&show_icons=true&hide_border=true&bg_color=0B132B&title_color=4A90E2&text_color=A0B2C6&icon_color=4A90E2" />
+  <img height="200" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DevSharkJF&layout=compact&hide_border=true&bg_color=0B132B&title_color=4A90E2&text_color=A0B2C6" />
  </div>
 
 ---
