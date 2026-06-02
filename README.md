@@ -140,6 +140,7 @@ O curso cumpre uma jornada de 8 meses entre Tech Foundation e Tech Advanced, div
 ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
 
 ---
+
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=DevSharkJF.DevSharkJF&"  />
 </div>
