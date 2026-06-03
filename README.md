@@ -14,8 +14,7 @@
 
 👨🏻‍💻 Em 2024 iniciei com serviços freelancer, o que me proporcionou experiência na área de desenvolvimento, pois tinha contato com demanda do cliente, reuniões de alinhamento, prazo de entregas, trabalho em equipe e o código para criar.
 
----
-
+___
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=25&duration=1&pause=1000&color=1D23F7&background=FFFFFF00&repeat=false&width=435&lines=ESTAT%C3%8DSTICAS)](https://git.io/typing-svg)
  <div align="center" >
   
@@ -32,8 +31,7 @@
   <img height="200" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DevSharkJF&layout=compact&hide_border=true&bg_color=0B132B&title_color=4A90E2&text_color=A0B2C6" />
  </div>
 
----
-
+___
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=25&duration=1&pause=1000&color=1D23F7&background=FFFFFF00&repeat=false&width=435&lines=HABILIDADES)](https://git.io/typing-svg) 
 
 <div align="center">
@@ -86,8 +84,7 @@
  </p>
 </div>
 
----
-
+___
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=25&duration=1&pause=1000&color=1D23F7&background=FFFFFF00&repeat=false&width=435&lines=INTELIGÊNCIA+ARTIFICIAL)](https://git.io/typing-svg)
 
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
@@ -104,7 +101,6 @@
   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cmp.1a.receputi27dev@gmail.com)
 
 ---
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=25&duration=1&pause=1000&color=1D23F7&background=FFFFFF00&repeat=false&width=435&lines=PROGRAMAS)](https://git.io/typing-svg)
 ## Oracle One Education (ONE) - Back-End em Java
 
@@ -112,7 +108,6 @@ Oracle One Education (ONE) é um programa da Oracle em parceria com a Alura grat
 O curso cumpre uma jornada de 8 meses entre Tech Foundation e Tech Advanced, dividida em 8 trilhas disponibilizadas na plataforma - ao todo são mais de 300 horas de experiência de conteúdo.
 
 ---
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=25&duration=1&pause=1000&color=1D23F7&background=FFFFFF00&repeat=false&width=435&lines=HOOSTING)](https://git.io/typing-svg)
 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
@@ -127,7 +122,6 @@ O curso cumpre uma jornada de 8 meses entre Tech Foundation e Tech Advanced, div
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
 ---
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=25&duration=1&pause=1000&color=1D23F7&background=FFFFFF00&repeat=false&width=435&lines=MAIS+SOBRE+MIM)](https://git.io/typing-svg)
 
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
@@ -140,7 +134,6 @@ O curso cumpre uma jornada de 8 meses entre Tech Foundation e Tech Advanced, div
 ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
 
 ---
-
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=DevSharkJF.DevSharkJF&"  />
 </div>
