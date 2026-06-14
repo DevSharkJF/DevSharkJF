@@ -14,10 +14,7 @@
 
 👨🏻‍💻 Em 2024 iniciei com serviços freelancer, o que me proporcionou experiência na área de desenvolvimento, pois tinha contato com demanda do cliente, reuniões de alinhamento, prazo de entregas, trabalho em equipe e o código para criar.
 
-🎯Busco oportunidades na área de TI em geral, a fim de melhorar minha experiência profissional tanto na programação como em manutenção de computadores, periféricos e redes
-
----
-
+___
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=25&duration=1&pause=1000&color=1D23F7&background=FFFFFF00&repeat=false&width=435&lines=ESTAT%C3%8DSTICAS)](https://git.io/typing-svg)
  <div align="center" >
   
@@ -29,11 +26,12 @@
   <div align="center">
 
   ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DevSharkJF&theme=react)
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=DevSharkJF&theme=default)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=DevSharkJF&theme=dark)
+  <img height="160" src="https://github-readme-stats-eight-theta.vercel.app/api?username=DevSharkJF&show_icons=true&hide_border=true&bg_color=0B132B&title_color=4A90E2&text_color=A0B2C6&icon_color=4A90E2" />
+  <img height="200" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DevSharkJF&layout=compact&hide_border=true&bg_color=0B132B&title_color=4A90E2&text_color=A0B2C6" />
  </div>
 
----
-
+___
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=25&duration=1&pause=1000&color=1D23F7&background=FFFFFF00&repeat=false&width=435&lines=HABILIDADES)](https://git.io/typing-svg) 
 
 <div align="center">
@@ -86,8 +84,7 @@
  </p>
 </div>
 
----
-
+___
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=25&duration=1&pause=1000&color=1D23F7&background=FFFFFF00&repeat=false&width=435&lines=INTELIGÊNCIA+ARTIFICIAL)](https://git.io/typing-svg)
 
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
@@ -103,8 +100,7 @@
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-receputi-06b88a2a9/)
   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cmp.1a.receputi27dev@gmail.com)
 
-  ---
-
+---
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=25&duration=1&pause=1000&color=1D23F7&background=FFFFFF00&repeat=false&width=435&lines=PROGRAMAS)](https://git.io/typing-svg)
 ## Oracle One Education (ONE) - Back-End em Java
 
@@ -117,7 +113,6 @@ O curso cumpre uma jornada de 8 meses entre Tech Foundation e Tech Advanced, div
 Programa da Oracle em Parceria com a Alura gratuito, com foco em desenvolvimento de Agentes de IA, auxiliando o usuário nas suas criações, tarefas e trabalho. 
 
 ---
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=25&duration=1&pause=1000&color=1D23F7&background=FFFFFF00&repeat=false&width=435&lines=HOOSTING)](https://git.io/typing-svg)
 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
@@ -132,7 +127,6 @@ Programa da Oracle em Parceria com a Alura gratuito, com foco em desenvolvimento
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
 ---
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=25&duration=1&pause=1000&color=1D23F7&background=FFFFFF00&repeat=false&width=435&lines=MAIS+SOBRE+MIM)](https://git.io/typing-svg)
 
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
