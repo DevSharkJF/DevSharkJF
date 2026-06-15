@@ -1,16 +1,18 @@
-<img width=100% bottom=50px src="https://github.com/user-attachments/assets/1f47e21a-f963-4830-a643-760878c49fae"/>
+<center>
+  <img width=65% bottom=50px src="https://github.com/user-attachments/assets/1f47e21a-f963-4830-a643-760878c49fae"/>
+</center>
 
 <div align="right">
- <img height="100" src="https://64.media.tumblr.com/f8b5fba97ddb66be9e5514fb03ebf3d9/5237f7a3ef223812-4a/s500x750/3ac21b87a185d6d53fd1dba210781281fa9a24ab.gif"  />
- <img height="100" src="https://github.com/user-attachments/assets/13e29081-7276-4f66-af3a-030b7c8dc021"  />
+ <img height="90" src="https://64.media.tumblr.com/f8b5fba97ddb66be9e5514fb03ebf3d9/5237f7a3ef223812-4a/s500x750/3ac21b87a185d6d53fd1dba210781281fa9a24ab.gif"  />
+ <img height="90" src="https://github.com/user-attachments/assets/13e29081-7276-4f66-af3a-030b7c8dc021"  />
 </div>
 
 <div align="center">
- 
+
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&duration=3000&pause=1000&color=1C1AF7&width=435&lines=%3COl%C3%A1%2C+meu+nome+%C3%A9+Gustavo+Receputi%2F%3E)](https://git.io/typing-svg)
 </div>
 
-🖥️ Comecei minha jornada na programação em 2023, através do curso Técnico em Desenvolvimento de Sistemas, pela instituição Senai José Fagundes Netto. Desde então venho aprimorando minhas habilidades e conhecimentos através de estudos, cursos complementares, livros e documentação das linguagens. Também possuo conhecimento na área de TI em geral, me familiarizando mais com softwares.
+🖥️ Comecei minha jornada na programação em 2023, através do curso Técnico em Desenvolvimento de Sistemas, pela instituição Senai José Fagundes Netto. Desde então venho aprimorando minhas habilidades e conhecimentos através de estudos, cursos complementares, livros e documentação das linguagens.
 
 👨🏻‍💻 Em 2024 iniciei com serviços freelancer, o que me proporcionou experiência na área de desenvolvimento, pois tinha contato com demanda do cliente, reuniões de alinhamento, prazo de entregas, trabalho em equipe e o código para criar.
 
@@ -103,6 +105,7 @@ ___
 ---
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=25&duration=1&pause=1000&color=1D23F7&background=FFFFFF00&repeat=false&width=435&lines=PROGRAMAS)](https://git.io/typing-svg)
 ## Oracle One Education (ONE) - Back-End em Java
+> Concluído
 
 Oracle One Education (ONE) é um programa da Oracle em parceria com a Alura gratuito na área da tecnologia da informação, com foco na programação Back-End em Java com IA.
 O curso cumpre uma jornada de 8 meses entre Tech Foundation e Tech Advanced, dividida em 8 trilhas disponibilizadas na plataforma - ao todo são mais de 300 horas de experiência de conteúdo.
