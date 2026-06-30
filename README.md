@@ -107,12 +107,13 @@ ___
 ## Oracle One Education (ONE) - Back-End em Java
 > Concluído
 
-Oracle One Education (ONE) é um programa da Oracle em parceria com a Alura gratuito na área da tecnologia da informação, com foco na programação Back-End em Java com IA.
+Oracle One Education (ONE) é um programa da Oracle em parceria com a Alura gratuito na área da tecnologia da informação, com foco na programação Back-End em Java, Spring Boot, API e IA.
 O curso cumpre uma jornada de 8 meses entre Tech Foundation e Tech Advanced, dividida em 8 trilhas disponibilizadas na plataforma - ao todo são mais de 300 horas de experiência de conteúdo. 
 
-### Oracle One Education (ONE) - Agentes de IA
-> Cursando
-Criação de um agente de IA capaz de raciocinar, planejar e executar tarefas por contra própria, com foco em criar um BOT no telegram para interagir com esse agente.
+## Oracle One Education (ONE) - Agentes de IA
+> Concluído
+
+Criação de um agente de IA capaz de raciocinar, planejar e executar tarefas por contra própria, com foco em criar um BOT no telegram para interagir com esse agente. Desenvolvido na plataforma N8N, em conjunto com o railway e Cohere
 
 ---
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=25&duration=1&pause=1000&color=1D23F7&background=FFFFFF00&repeat=false&width=435&lines=HOOSTING)](https://git.io/typing-svg)
