@@ -115,6 +115,17 @@ O curso cumpre uma jornada de 8 meses entre Tech Foundation e Tech Advanced, div
 
 Criação de um agente de IA capaz de raciocinar, planejar e executar tarefas por contra própria, com foco em criar um BOT no telegram para interagir com esse agente. Desenvolvido na plataforma N8N, em conjunto com o railway e Cohere
 
+## Tech AI Builder
+> Cursando
+
+Focado em desenvolvimento com Inteligência Artificial e Cloud, possuindo 5 principais tópicos:
+
+* Desenvolvimento e Orquestração com IA Generativa
+* Engenharia de Agentes e Automação com IA
+* Inteligência de Dados e RAG Avançado
+* Oracle Cloud Infrastructure
+* Formação de Nivelamento em IA
+
 ---
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=25&duration=1&pause=1000&color=1D23F7&background=FFFFFF00&repeat=false&width=435&lines=HOOSTING)](https://git.io/typing-svg)
 
